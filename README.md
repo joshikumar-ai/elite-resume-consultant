@@ -213,10 +213,10 @@ User uploads resume
 
 | Version | Period | Focus | Highlights |
 |---------|--------|-------|------------|
-| **v0.1-0.5** | Jun-Jul 2024 | Foundation | Initial module concepts, basic scoring |
-| **v1.0** | Aug-Sep 2024 | Architecture | 8-module system, 100-point framework |
-| **v1.5** | Oct 2024 | Iteration | Quality gates, validation protocols |
-| **v2.0** | Nov-Dec 2024 | Production | India optimization, 65% token reduction, edge cases |
+| **v0.1-0.5** | Nov-Dec 2025 | Foundation | Initial module concepts, basic scoring |
+| **v1.0** | Nov-Dec 2025 | Architecture | 8-module system, 100-point framework |
+| **v1.5** | Dec 2025 | Iteration | Quality gates, validation protocols |
+| **v2.0** | Dec 2025 | Production | India optimization, 65% token reduction, edge cases |
 
 **Development Process:**
 - 6+ months of iteration
