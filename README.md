@@ -282,7 +282,7 @@ AI Systems Architect | Hyderabad, India
 **For employment opportunities, consulting, or licensing:**
 
 - 📧 Email: joshi.ai.architect@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/joshi-kumar-n](https://linkedin.com/in/joshi-kumar-n)
+- 💼 LinkedIn: [linkedin.com/in/joshi-kumar-ai](https://linkedin.com/in/joshi-kumar-ai)
 - 🐙 GitHub: [github.com/joshikumar-ai](https://github.com/joshikumar-ai)
 
 ---
